@@ -1,5 +1,7 @@
 # Wolf
 A JavaScript Weather App
+## Prerequisite
+Make sure you have [node.js](https://nodejs.org/en/download/) and [npm](https://nodejs.org/en/download/) installed on your system.
 ## Installing
 ```
 npm install http-server
